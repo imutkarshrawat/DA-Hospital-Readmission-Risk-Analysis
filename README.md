@@ -28,5 +28,5 @@ Identify key risk factors driving 30-day patient readmissions using SQL for anal
 4. Sample size validation was applied throughout — initial findings showing 100% readmission rates were investigated and excluded once found to be based on samples of 2-3 patients, ensuring only statistically reliable insights were presented.
 
 ## 📈 Dashboard Preview
-![Dashboard](https://github.com/imutkarshrawat/DA-Hospital-Readmission-Risk-Analysis/tree/main/images)
+![Dashboard](https://github.com/imutkarshrawat/DA-Hospital-Readmission-Risk-Analysis/blob/main/images/Screenshot%202026-06-17%20205305.png)
 
