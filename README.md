@@ -30,3 +30,10 @@ Identify key risk factors driving 30-day patient readmissions using SQL for anal
 ## 📈 Dashboard Preview
 ![Dashboard](https://github.com/imutkarshrawat/DA-Hospital-Readmission-Risk-Analysis/blob/main/images/Screenshot%202026-06-17%20205305.png)
 
+![Dashboard](https://github.com/imutkarshrawat/DA-Hospital-Readmission-Risk-Analysis/blob/main/images/Screenshot%2026-06-18%165932.png)
+
+![Dashboard](https://github.com/imutkarshrawat/DA-Hospital-Readmission-Risk-Analysis/blob/main/images/Screenshot%2026-06-18%170019.png)
+
+![Dashboard](https://github.com/imutkarshrawat/DA-Hospital-Readmission-Risk-Analysis/blob/main/images/Screenshot%2026-06-18%170044.png)
+
+
